@@ -57,4 +57,3 @@ To package a distributable artifact for Linux:
 ```bash
 tar -czf repodemo1-linux.tar.gz dist
 ```
-Added a new test line for pr trigger
